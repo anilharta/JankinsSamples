@@ -1,4 +1,3 @@
-package jankinsSamples;
 
 public class JankinsSamplesFirst {
 
